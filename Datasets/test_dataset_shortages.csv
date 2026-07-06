@@ -1,0 +1,11 @@
+Product ID,Product Name,Category,Current Stock,Reorder Point,Safety Stock,Daily Sales Rate,Unit Cost,Lead Time (days),Supplier Name
+SKU-2001,Ultra Bass Earbuds,Electronics,0,100,30,5.5,45.0,10,VoltTech Solutions
+SKU-2002,Smart Band Fit,Electronics,2,80,20,4.0,30.0,12,VoltTech Solutions
+SKU-2003,Wireless Desktop Combo,Electronics,8,120,40,6.2,50.0,14,VoltTech Solutions
+SKU-2004,Eco Leather Jacket,Apparel,0,50,15,2.5,120.0,18,Vanguard Apparel
+SKU-2005,Summer Slim Shorts,Apparel,4,110,35,5.8,25.0,7,Apex Loom Co
+SKU-2006,Bamboo Kitchen Cutting Board,Home & Kitchen,1,90,25,4.5,15.0,8,BrewMaster Appliance
+SKU-2007,Copper Cookware Set (10pc),Home & Kitchen,0,40,12,1.8,150.0,22,Krupp Cutlery
+SKU-2008,Daily Hydrating Cleanser,Beauty & Personal Care,3,150,45,7.8,12.0,9,Natura Essence
+SKU-2009,Matte SPF Tinted Moisturizer,Beauty & Personal Care,0,70,20,3.2,18.0,11,Lumina Cosmetics
+SKU-2010,Grid Journal A5,Office Supplies,2,60,18,2.9,8.5,6,PaperCraft Press

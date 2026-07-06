@@ -1,0 +1,8 @@
+Product ID,Product Name,Category,Current Stock,Reorder Point,Safety Stock,Daily Sales Rate,Unit Cost,Lead Time (days),Supplier Name
+SKU-3001,Premium Curved Monitor,Electronics,850,100,30,1.2,380.0,15,VoltTech Solutions
+SKU-3002,Dual Fan Cooler Box,Electronics,500,60,15,0.8,45.0,10,VoltTech Solutions
+SKU-3003,Cashmere Winter Wrap,Apparel,420,80,20,0.9,110.0,14,Vanguard Apparel
+SKU-3004,Handcrafted Oak Table,Home & Kitchen,95,10,3,0.1,750.0,30,SteelForm Furniture
+SKU-3005,Anti-Wrinkle Eye Treatment,Beauty & Personal Care,1200,200,50,2.0,45.0,12,Natura Essence
+SKU-3006,Deluxe Executive Desk,Office Supplies,110,15,5,0.2,520.0,25,SteelForm Furniture
+SKU-3007,Professional Draft Pad,Office Supplies,800,120,30,1.5,15.0,6,PaperCraft Press

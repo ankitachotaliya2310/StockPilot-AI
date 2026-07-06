@@ -1,0 +1,11 @@
+Product ID,Product Name,Category,Current Stock,Reorder Point,Safety Stock,Daily Sales Rate,Unit Cost,Lead Time (days),Supplier Name
+SKU-4001,Apex Wireless Earbuds,Electronics,200,100,30,4.0,45.0,10,VoltTech Solutions
+SKU-4002,Smart Band Fit,Electronics,2,80,20,4.0,30.0,12,VoltTech Solutions
+SKU-4003,Titan Power Bank,Electronics,50,80,30,3.5,25.0,8,PowerUp Industries
+SKU-4004,Classic Denim Jeans,Apparel,450,100,25,2.5,30.0,14,Apex Loom Co
+SKU-4005,Summer Slim Shorts,Apparel,150,80,20,3.0,20.0,7,Apex Loom Co
+SKU-4006,Pro-Series Chef Knife,Home & Kitchen,5,40,12,1.5,60.0,25,Krupp Cutlery
+SKU-4007,PowerBlender 1200W,Home & Kitchen,45,60,20,2.2,55.0,10,AquaFlow Corp
+SKU-4008,Daily Cleanser,Beauty & Personal Care,90,80,25,3.5,12.0,9,Natura Essence
+SKU-4009,Matte Lip Stick,Beauty & Personal Care,320,50,15,2.0,10.0,8,Lumina Cosmetics
+SKU-4010,Premium Desk Stapler,Office Supplies,75,50,15,2.5,8.5,6,SteelForm Furniture
