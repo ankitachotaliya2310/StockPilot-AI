@@ -309,7 +309,7 @@ StockPilot-AI
 
 # 🎥 Demo
 
-📺 **Demo Video:** https://youtube.com/your-video-link
+📺 **Demo Video:** https://youtu.be/xFnFT3Dh_GI?si=VXuZpmO2-REyzuWL
 
 💻 **GitHub Repository:** https://github.com/ankitachotaliya2310/StockPilot-AI
 
